@@ -35,6 +35,5 @@ bool member(element e, list l);
 int length(list l);
 list append(list l1, list l2);
 list delete(element e, list l);
-list del_it(element e, list l);
 
 #endif /* LIST_C */
